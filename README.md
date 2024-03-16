@@ -1,1 +1,1 @@
-# money-tracker
+# money-tracker web app for tracking expenses. 
